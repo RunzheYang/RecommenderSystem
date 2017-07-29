@@ -1,0 +1,39 @@
+\begin{thebibliography}{1}
+
+\bibitem{dong2017hybrid}
+X.~Dong, L.~Yu, Z.~Wu, Y.~Sun, L.~Yuan, and F.~Zhang.
+\newblock A hybrid collaborative filtering model with deep structure for
+  recommender systems.
+\newblock In {\em Thirty-First AAAI Conference on Artificial Intelligence},
+  2017.
+
+\bibitem{rendle2012factorization}
+S.~Rendle.
+\newblock Factorization machines with libfm.
+\newblock {\em ACM Transactions on Intelligent Systems and Technology (TIST)},
+  3(3):57, 2012.
+
+\bibitem{salakhutdinov2007restricted}
+R.~Salakhutdinov, A.~Mnih, and G.~Hinton.
+\newblock Restricted boltzmann machines for collaborative filtering.
+\newblock In {\em Proceedings of the 24th international conference on Machine
+  learning}, pages 791--798. ACM, 2007.
+
+\bibitem{sedhain2015autorec}
+S.~Sedhain, A.~K. Menon, S.~Sanner, and L.~Xie.
+\newblock Autorec: Autoencoders meet collaborative filtering.
+\newblock In {\em Proceedings of the 24th International Conference on World
+  Wide Web}, pages 111--112. ACM, 2015.
+
+\bibitem{strub2016hybrid}
+F.~Strub, J.~Mary, and R.~Gaudel.
+\newblock Hybrid collaborative filtering with autoencoders.
+\newblock {\em arXiv preprint arXiv:1603.00806}, 2016.
+
+\bibitem{wang2015collaborative}
+H.~Wang, N.~Wang, and D.-Y. Yeung.
+\newblock Collaborative deep learning for recommender systems.
+\newblock In {\em Proceedings of the 21th ACM SIGKDD International Conference
+  on Knowledge Discovery and Data Mining}, pages 1235--1244. ACM, 2015.
+
+\end{thebibliography}
